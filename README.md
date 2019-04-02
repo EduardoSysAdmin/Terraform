@@ -1,4 +1,4 @@
-## ¿Para que puedo usar Terraform?
+## ¿Para qué sirve y para qué puedo usar Terraform?
 Terraform es una herramienta para hacer **despliegue de instancias en diferentes IaaS**. Es cierto que hay más herramientas para esta tarea pero la principal ventaja de Terraform es la posibilidad que ofrece **con una única herramienta desplegar en diferentes IaaS**.
 
 ## ¿Qué voy a encontrar en este repositorio?
