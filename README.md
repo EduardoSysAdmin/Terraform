@@ -16,5 +16,5 @@ Este repositorio lo he creado a nivel personal para hacer un **control de versio
 
 | Script               | Descripción                                                                             |
 | ------               | -----------                                                                             |
-| Instance            | Este conjunto de script creará un despliegue de una instancia con una IP pública flotante asociada.            |
-| Multi-Debian.tf      | Este script despliega cuatro instancias Debian. Es **más completo** en cuanto a opciones.   |
+| Instance            | Este conjunto de script creará un despliegue de una instancia con una IP pública flotante asociada.     |
+| Key      | Este script importa una clave pública a Openstack para poder autenticarse a las instancias con la clave privada.   |
