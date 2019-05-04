@@ -17,16 +17,16 @@ variable "red" {
   default = "Privada1"
 }
 variable "usuario" {
-  default = "admin"
+  default = ""
 }
 variable "tenant" {
-  default = "admin"
+  default = ""
 }
 variable "openstack" {
   default = "http://openstack:5000/"
 }
 variable "password" {
-  default = "bolson"
+  default = ""
 }
 variable "red-publica" {
   default = "Publica"
