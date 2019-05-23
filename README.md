@@ -17,5 +17,5 @@ Este repositorio lo he creado a nivel personal para hacer un **control de versio
 | Script               | Descripción                                                                             |
 | ------               | -----------                                                                             |
 | Instance            | Este conjunto de script creará un despliegue de una instancia con una IP pública flotante asociada.     |
-| Key      | Este script importa una clave pública a Openstack para poder autenticarse a las instancias con la clave privada.   |
+| Claves      | Este script importa una clave pública a Openstack para poder autenticarse a las instancias con la clave privada.   |
 | Variables      | Este conjunto de scripts hace un despliegue de una instancia con una IP pública flotante asociada **usando variables**.   |
